@@ -13,7 +13,10 @@ public class Proyectoprueba {
     String nombre = opc.nextLine();
     System.out.println("Digite su apellido");
     String apellido = opc.nextLine();
-    
+    System.out.println("Digite su direccion");
+    String direccion = opc.nextLine();
+    System.out.println("Digite su ciudad");
+    String ciudad = opc.nextLine();
     
     
     }

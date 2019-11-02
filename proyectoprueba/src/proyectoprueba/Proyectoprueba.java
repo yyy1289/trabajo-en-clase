@@ -11,6 +11,9 @@ public class Proyectoprueba {
     Scanner opc = new Scanner (System.in);
     System.out.println("Digite su nombre");
     String nombre = opc.nextLine();
+    System.out.println("Digite su apellido");
+    String apellido = opc.nextLine();
+    
     
     
     }
